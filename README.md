@@ -1,5 +1,6 @@
-🛡️ SafeCall
-SafeCall é uma biblioteca leve e extensível para Java e Spring Boot, projetada para fornecer padrões de resiliência e controle de tráfego para APIs de forma simples e eficiente.
+# 🛡️ SafeCall
+
+> uma biblioteca leve e extensível para Java e Spring Boot, projetada para fornecer padrões de resiliência e controle de tráfego para APIs de forma simples e eficiente.
 
 📖 Visão Geral (Overview)
 O objetivo principal do SafeCall é proteger microserviços contra sobrecarga e falhas em cascata. Diferente de soluções mais robustas e complexas, o SafeCall foca na transparência: uma implementação enxuta que utiliza o poder do Spring AOP (Aspect Oriented Programming) para injetar resiliência nos métodos da aplicação com o mínimo de configuração.
